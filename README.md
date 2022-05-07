@@ -19,7 +19,7 @@
 ### Safe features
 - [Flame Sensor Module](https://www.lazada.com.ph//products/i1364312412-s5032006885.html?spm=a2o4l.cart.0.0.44923e171uvdk3&urlFlag=true) Php40
 - [Accelerometer 3-Axis Digital ADXL346](https://www.lazada.com.ph//products/i1943961162-s8375303633.html) Php70
-- [Relay Module 5V](https://www.lazada.com.ph/products/single-channel-relay-1-channel-relay-1-way-relay-module-1ch-5v-l-12v-10a-low-level-trigger-with-optocoupler-protection-i100047427-s100061336.html)
+- [Relay Module 5V](https://www.lazada.com.ph/products/single-channel-relay-1-channel-relay-1-way-relay-module-1ch-5v-l-12v-10a-low-level-trigger-with-optocoupler-protection-i100047427-s100061336.html) Php43
 
 ### Option for Motor Driver
 - [TMC5161](https://www.lazada.com.ph/products/3d-printer-motherboard-accessories-tmc5161-driver-inline-tweezer-kit-x5pcs-nema1723-i2595229384-s12206325203.html) Php1,976
