@@ -16,6 +16,7 @@
 - [Laser Module Sliding Plate](https://www.lazada.com.ph/products/new-laser-module-sliding-platelaser-head-sliding-rack-i2596085879-s12211980671.html) Php1,424
 - [Arduino CNC Shield V3 A4988](https://www.lazada.com.ph//products/i107530493-s108659206.html) Php350
 - [End Stop Limit Switch](https://www.lazada.com.ph/products/5pcs-3d-printer-accessories-xyz-axis-end-stop-limit-switch-3pin-no-nc-control-easy-to-use-micro-switch-for-cr-10-series-ender-3-i1053022537-s3570172648.html)
+- [M3 M4 M5 Stainless Steel Bolt & Nuts](https://www.lazada.com.ph/products/manzan-500pcs-m3-m4-m5-stainless-steel-a2-iso7380-button-head-hex-bolts-hexagon-socket-screws-with-nuts-assortment-kit-i345032537-s779574023.html) Php523
 
 ### Option for Motor Driver
 - [TMC5161](https://www.lazada.com.ph/products/3d-printer-motherboard-accessories-tmc5161-driver-inline-tweezer-kit-x5pcs-nema1723-i2595229384-s12206325203.html) Php1,976
