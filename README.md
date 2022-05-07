@@ -3,7 +3,7 @@
 ### Parts List
 - [GT2 Idler Timing Pulley Bearing](https://www.lazada.com.ph/products/gt2-idler-timing-pulley-bearing-20t20-tooth-5mm-bore-20-teeth-suitable-for-6mm-belt-reprap-3d-printer10pcs-i2825875971-s13692364929.html) Php302
 - [5mm Wide Timing Belt](https://www.lazada.com.ph/products/8pcs-5mm-20-teeth-aluminum-timing-pulley-wheel5-meters-rubber-gt2-2mm-pitch-6mm-wide-timing-belt-for-3d-printer-cnc-i2745526312-s13168326429.html) Php284
-- [Nema 17 Stepper Motor](https://www.lazada.com.ph/products/3d-printer-parts-titan-extruder-nema-17-stepper-motor-42x42x23mm-17hs4023-for-ultimaker-prusa-i3-kossel-corexy-i1861220593.html) Php338 x 3pc
+- [0.9 Degree Nema 17 Stepper Motor](https://www.lazada.com.ph//products/i2810404417-s13590314704.html) Php581 x 3pc
 - [Corner Bracket 2020](https://www.lazada.com.ph/products/50pcs-corner-bracket-2020-series-aluminum-profile-connector-set-for-6mm-slot-aluminum-profile-accessories-i2826543809-s13695440665.html) Php278
 - [M5 T Sliding Nut](https://www.lazada.com.ph/products/50pcs-m5-t-sliding-nut-zin-plated-carbon-steel-t-sliding-nut-for-2020-aluminum-profile-intl-i229771956-s307567470.html) Php173
 - [V Slot 2020 Aluminum Profile, 1000mm](https://www.lazada.com.ph//products/i2210806312-s9941186540.html) Php541 x 5pc
