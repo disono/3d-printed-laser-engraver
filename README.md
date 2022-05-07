@@ -17,7 +17,7 @@
 - [Arduino CNC Shield V3 A4988](https://www.lazada.com.ph//products/i107530493-s108659206.html) Php350
 
 ### Option for Motor Driver
-- [Moter Driver (TMC5161)](https://www.lazada.com.ph/products/3d-printer-motherboard-accessories-tmc5161-driver-inline-tweezer-kit-x5pcs-nema1723-i2595229384-s12206325203.html) Php1,976
+- [TMC5161](https://www.lazada.com.ph/products/3d-printer-motherboard-accessories-tmc5161-driver-inline-tweezer-kit-x5pcs-nema1723-i2595229384-s12206325203.html) Php1,976
 - [TMC2209](https://www.lazada.com.ph//products/i2930575590-s14268391082.html) Php208 x 3pc
 
 ### CNC Parts (Optional)
