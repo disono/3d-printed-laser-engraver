@@ -10,13 +10,16 @@
 - [40W Laser Module 450nm Engraving Laser Head](https://www.lazada.com.ph/products/40w-laser-module-450nm-engraving-laser-head-high-precision-engraving-metal-wood-acrylic-for-laser-engraving-machine-cnc-router-cutting-machine-i2292780735-s10360234438.html) Php5,385
 - [Arduino UNO R3](https://www.lazada.com.ph/products/arduino-uno-r3-development-board-atmega328p-ch340-ch340g-with-straight-pin-header-and-cable-i5989135-s7586615.html) Php650 x 2
 - [Emergency Stop Button](https://www.lazada.com.ph/products/emergency-stop-button-lay37-11zs-y090-11zs-lay7-11zs-mushroom-head-emergency-stop-self-locking-button-switch-i2711706353-s12970203178.html) Php90
-- [Flame Sensor Module](https://www.lazada.com.ph//products/i1364312412-s5032006885.html?spm=a2o4l.cart.0.0.44923e171uvdk3&urlFlag=true) Php40
-- [Accelerometer 3-Axis Digital ADXL346](https://www.lazada.com.ph//products/i1943961162-s8375303633.html) Php70
 - [eSUN PLA+](https://www.lazada.com.ph/products/esun-pla-white-black-grey-red-green-blue-yellow-orange-filament-175mm-pla-plus-1kg-spool-for-creality-3d-printer-i142176157-s7086454004.html) Php709
 - [Laser Module Sliding Plate](https://www.lazada.com.ph/products/new-laser-module-sliding-platelaser-head-sliding-rack-i2596085879-s12211980671.html) Php1,424
 - [Arduino CNC Shield V3 A4988](https://www.lazada.com.ph//products/i107530493-s108659206.html) Php350
 - [End Stop Limit Switch](https://www.lazada.com.ph//products/i2930904183-s14269604787.html) Php236
 - [M3 M4 M5 Stainless Steel Bolt & Nuts](https://www.lazada.com.ph/products/manzan-500pcs-m3-m4-m5-stainless-steel-a2-iso7380-button-head-hex-bolts-hexagon-socket-screws-with-nuts-assortment-kit-i345032537-s779574023.html) Php523
+
+### Safe features
+- [Flame Sensor Module](https://www.lazada.com.ph//products/i1364312412-s5032006885.html?spm=a2o4l.cart.0.0.44923e171uvdk3&urlFlag=true) Php40
+- [Accelerometer 3-Axis Digital ADXL346](https://www.lazada.com.ph//products/i1943961162-s8375303633.html) Php70
+- [Relay Module 5V](https://www.lazada.com.ph/products/single-channel-relay-1-channel-relay-1-way-relay-module-1ch-5v-l-12v-10a-low-level-trigger-with-optocoupler-protection-i100047427-s100061336.html)
 
 ### Option for Motor Driver
 - [TMC5161](https://www.lazada.com.ph/products/3d-printer-motherboard-accessories-tmc5161-driver-inline-tweezer-kit-x5pcs-nema1723-i2595229384-s12206325203.html) Php1,976
