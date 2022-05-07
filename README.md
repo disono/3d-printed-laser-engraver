@@ -30,6 +30,7 @@
 - [Ortur Laser Master 2 Pro](https://ortur.net/collections/laser-engraving-machine/products/laser-master-2-pro?variant=42164587790569)
 - [Project GRBL Controller Board](https://simple-ee.com/2018/06/20/project-grbl-controller-board)
 - [3D Printed CNC](https://www.youtube.com/watch?v=pEeF-ISdExM)
+- [DIY Homemade Laser Cutter](https://www.youtube.com/watch?v=-JBIMSJ--v8)
 
 ### Issues
 - [Issues when replacing DRV8825 with TMC2209 on a CNC shield](https://forum.arduino.cc/t/issues-when-replacing-drv8825-with-tmc2209-on-a-cnc-shield/897598)
