@@ -10,8 +10,8 @@
 - [40W Laser Module 450nm Engraving Laser Head](https://www.lazada.com.ph/products/40w-laser-module-450nm-engraving-laser-head-high-precision-engraving-metal-wood-acrylic-for-laser-engraving-machine-cnc-router-cutting-machine-i2292780735-s10360234438.html) Php5,385
 - [Arduino UNO R3](https://www.lazada.com.ph/products/arduino-uno-r3-development-board-atmega328p-ch340-ch340g-with-straight-pin-header-and-cable-i5989135-s7586615.html) Php650 x 2
 - [Emergency Stop Button](https://www.lazada.com.ph/products/emergency-stop-button-lay37-11zs-y090-11zs-lay7-11zs-mushroom-head-emergency-stop-self-locking-button-switch-i2711706353-s12970203178.html) Php90
-- [Flame Sensor Module](https://www.lazada.com.ph/products/flame-sensor-module-digital-3-pins-fire-detection-for-arduino-raspberry-i216829675-s282473015.html) Php45
-- [Accelerometer 3-Axis Digital ADXL346](https://www.lazada.com.ph/products/accelerometer-3-axis-digital-adxl346-ultralow-power-as-low-as-23a-in-measurement-mode-and-1-a-in-standby-mode-at-vs-25-v-typical-i111657677-s113845877.html) Php200
+- [Flame Sensor Module](https://www.lazada.com.ph//products/i1364312412-s5032006885.html?spm=a2o4l.cart.0.0.44923e171uvdk3&urlFlag=true) Php40
+- [Accelerometer 3-Axis Digital ADXL346](https://www.lazada.com.ph//products/i1943961162-s8375303633.html) Php70
 - [eSUN PLA+](https://www.lazada.com.ph/products/esun-pla-white-black-grey-red-green-blue-yellow-orange-filament-175mm-pla-plus-1kg-spool-for-creality-3d-printer-i142176157-s7086454004.html) Php709
 - [Laser Module Sliding Plate](https://www.lazada.com.ph/products/new-laser-module-sliding-platelaser-head-sliding-rack-i2596085879-s12211980671.html) Php1,424
 - [Arduino CNC Shield V3 A4988](https://www.lazada.com.ph//products/i107530493-s108659206.html) Php350
