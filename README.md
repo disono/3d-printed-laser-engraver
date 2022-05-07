@@ -16,6 +16,9 @@
 - [eSUN PLA+](https://www.lazada.com.ph/products/esun-pla-white-black-grey-red-green-blue-yellow-orange-filament-175mm-pla-plus-1kg-spool-for-creality-3d-printer-i142176157-s7086454004.html) Php709
 - [CNC Z Axis Slide Module](https://www.lazada.com.ph/products/cnc-z-axis-slide-module-screw-slide-table-linear-rail-guidefor-cnc-3018-pro-router-compatible-with-300w500w-spindle-i2367421583-s10767394406.html) Php4200
 
+### Software and Tools
+- [GRBL](https://github.com/grbl/grbl/tree/master/grbl)
+
 ### References
 - [Ortur Laser Master 2 Pro](https://ortur.net/collections/laser-engraving-machine/products/laser-master-2-pro?variant=42164587790569)
 - [Project GRBL Controller Board](https://simple-ee.com/2018/06/20/project-grbl-controller-board)
