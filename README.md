@@ -8,7 +8,7 @@
 - [M5 T Sliding Nut](https://www.lazada.com.ph/products/50pcs-m5-t-sliding-nut-zin-plated-carbon-steel-t-sliding-nut-for-2020-aluminum-profile-intl-i229771956-s307567470.html) Php173
 - [V Slot 2020 Aluminum Profile, 1000mm](https://www.lazada.com.ph//products/i2210806312-s9941186540.html) Php541 x 5pc
 - [40W Laser Module 450nm Engraving Laser Head](https://www.lazada.com.ph/products/40w-laser-module-450nm-engraving-laser-head-high-precision-engraving-metal-wood-acrylic-for-laser-engraving-machine-cnc-router-cutting-machine-i2292780735-s10360234438.html) Php5,385
-- [Arduino UNO R3](https://www.lazada.com.ph/products/arduino-uno-r3-development-board-atmega328p-ch340-ch340g-with-straight-pin-header-and-cable-i5989135-s7586615.html) Php650 x 2
+- [Arduino UNO R3](https://www.lazada.com.ph/products/arduino-uno-r3-development-board-atmega328p-ch340-ch340g-with-straight-pin-header-and-cable-i5989135-s7586615.html) Php650 x 2pc
 - [Emergency Stop Button](https://www.lazada.com.ph/products/emergency-stop-button-lay37-11zs-y090-11zs-lay7-11zs-mushroom-head-emergency-stop-self-locking-button-switch-i2711706353-s12970203178.html) Php90
 - [eSUN PLA+](https://www.lazada.com.ph/products/esun-pla-white-black-grey-red-green-blue-yellow-orange-filament-175mm-pla-plus-1kg-spool-for-creality-3d-printer-i142176157-s7086454004.html) Php709
 - [Laser Module Sliding Plate](https://www.lazada.com.ph/products/new-laser-module-sliding-platelaser-head-sliding-rack-i2596085879-s12211980671.html) Php1,424
