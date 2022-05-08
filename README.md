@@ -21,12 +21,6 @@
 - [Accelerometer 3-Axis Digital ADXL346](https://www.lazada.com.ph//products/i1943961162-s8375303633.html) Php70
 - [Relay Module 5V](https://www.lazada.com.ph/products/single-channel-relay-1-channel-relay-1-way-relay-module-1ch-5v-l-12v-10a-low-level-trigger-with-optocoupler-protection-i100047427-s100061336.html) Php43
 
-### Custom Board Schematics (Reference)
-- [Arduino CNC Shield](https://hackaday.io/project/5208-arduino-cnc-shield)
-![Arduino CNC Shield](https://cdn.hackaday.io/images/916681428645913949.jpg)
-- [OSOYOO Basic board + CNC Shield V3.0+A4988](https://osoyoo.com/2017/04/07/arduino-uno-cnc-shield-v3-0-a4988)
-![OSOYOO Basic board + CNC Shield V3.0+A4988](https://osoyoo.com/wp-content/uploads/2017/04/Arduino-CNC-Shield-Scematics-V3.XX_.jpg)
-
 ### Option for Motor Driver
 - [TMC5161](https://www.lazada.com.ph/products/3d-printer-motherboard-accessories-tmc5161-driver-inline-tweezer-kit-x5pcs-nema1723-i2595229384-s12206325203.html) Php1,976
 - [TMC2209 V2.0](https://www.lazada.com.ph//products/i2930575590-s14268391082.html) Php208 x 3pc
@@ -34,6 +28,12 @@
 
 ### CNC Parts (Optional)
 - [CNC Z Axis Slide Module](https://www.lazada.com.ph/products/cnc-z-axis-slide-module-screw-slide-table-linear-rail-guidefor-cnc-3018-pro-router-compatible-with-300w500w-spindle-i2367421583-s10767394406.html) Php4,200
+
+### Custom Board Schematics (Reference)
+- [Arduino CNC Shield](https://hackaday.io/project/5208-arduino-cnc-shield)
+![Arduino CNC Shield](https://cdn.hackaday.io/images/916681428645913949.jpg)
+- [OSOYOO Basic board + CNC Shield V3.0+A4988](https://osoyoo.com/2017/04/07/arduino-uno-cnc-shield-v3-0-a4988)
+![OSOYOO Basic board + CNC Shield V3.0+A4988](https://osoyoo.com/wp-content/uploads/2017/04/Arduino-CNC-Shield-Scematics-V3.XX_.jpg)
 
 ### Software and Tools
 - [GRBL](https://github.com/grbl/grbl/tree/master/grbl)
