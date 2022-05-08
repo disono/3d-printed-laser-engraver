@@ -24,6 +24,8 @@
 ### Custom Board Schematics (Reference)
 - [Arduino CNC Shield](https://hackaday.io/project/5208-arduino-cnc-shield)
 ![Arduino CNC Shield](https://cdn.hackaday.io/images/916681428645913949.jpg)
+- [OSOYOO Basic board + CNC Shield V3.0+A4988](https://osoyoo.com/2017/04/07/arduino-uno-cnc-shield-v3-0-a4988)
+![OSOYOO Basic board + CNC Shield V3.0+A4988](https://osoyoo.com/wp-content/uploads/2017/04/Arduino-CNC-Shield-Scematics-V3.XX_.jpg)
 
 ### Option for Motor Driver
 - [TMC5161](https://www.lazada.com.ph/products/3d-printer-motherboard-accessories-tmc5161-driver-inline-tweezer-kit-x5pcs-nema1723-i2595229384-s12206325203.html) Php1,976
