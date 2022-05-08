@@ -30,6 +30,7 @@
 ### Option for Motor Driver
 - [TMC5161](https://www.lazada.com.ph/products/3d-printer-motherboard-accessories-tmc5161-driver-inline-tweezer-kit-x5pcs-nema1723-i2595229384-s12206325203.html) Php1,976
 - [TMC2209](https://www.lazada.com.ph//products/i2930575590-s14268391082.html) Php208 x 3pc
+- [TMC2209 V3.1 / Alternative Supplier](https://shopee.ph/Dotbit-The-Latest-Version-5pcs-TMC2209-V3.1-Stepping-Motor-Driver-Step-Sticks-Mute-Driver-256-Microsteps-Current-2.8A-Peak-VS-TMC2208-i.300575252.4252088421)
 
 ### CNC Parts (Optional)
 - [CNC Z Axis Slide Module](https://www.lazada.com.ph/products/cnc-z-axis-slide-module-screw-slide-table-linear-rail-guidefor-cnc-3018-pro-router-compatible-with-300w500w-spindle-i2367421583-s10767394406.html) Php4,200
